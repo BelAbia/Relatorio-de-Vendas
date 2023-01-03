@@ -1,0 +1,11 @@
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\obj\Debug\Projeto_final.csproj.AssemblyReference.cache
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\obj\Debug\Projeto_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\obj\Debug\Projeto_final.JanelaPrincipal.resources
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\obj\Debug\Projeto_final.Properties.Resources.resources
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\obj\Debug\Projeto_final.csproj.GenerateResource.cache
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\obj\Debug\Projeto_final.csproj.CoreCompileInputs.cache
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\bin\Debug\Projeto_final.exe.config
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\bin\Debug\Projeto_final.exe
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\bin\Debug\Projeto_final.pdb
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\obj\Debug\Projeto_final.exe
+C:\Users\Isabela\source\repos\Projeto_final\Projeto_final\obj\Debug\Projeto_final.pdb
